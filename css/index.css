@@ -9,7 +9,7 @@ li{list-style: none;}
 .wrap{width: 1360px; padding: 0 20px; margin: auto;}
 .b{color: #24b5e9; font-weight: bold;}
 
-header{min-width: 1400px; position: absolute; top: 0; left: 0;
+header{min-width: 1200px; position: absolute; top: 0; left: 0;
     width: 100%; padding-top: 50px;}
 
 .hd{position: fixed; padding-top: 20px; background-color: #fff;}
@@ -40,7 +40,7 @@ header nav button{float: left; background-color: transparent; border: 0;
 .banner2 .bar{width: 3px; height: 115px; background: #fff; margin: auto;}
 .banner2 p{padding-top: 30px; font-size: 20px; line-height: 1.6;}
 
-section>div{min-width: 1360px; overflow: auto;}
+section>div{min-width: 1360px; overflow: hidden;}
 
 section .left{float: left;}
 section .right{float: right;}
